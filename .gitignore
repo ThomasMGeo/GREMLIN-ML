@@ -1,3 +1,7 @@
 
 *.nc
 datasets/df_rnd_test.parquet
+*.parquet
+notebook/.DS_Store
+.DS_Store
+*.pyc
